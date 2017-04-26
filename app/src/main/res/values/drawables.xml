@@ -1,0 +1,8 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_news" type="drawable">@mipmap/news</item>
+    <item name="ic_menu_zd" type="drawable">@mipmap/book</item>
+    <item name="ic_menu_photos" type="drawable">@mipmap/photo</item>
+    <item name="ic_menu_music" type="drawable">@mipmap/music</item>
+    <item name="ic_menu_settings" type="drawable">@mipmap/settings</item>
+    <item name="ic_menu_share" type="drawable">@mipmap/share</item>
+</resources>
